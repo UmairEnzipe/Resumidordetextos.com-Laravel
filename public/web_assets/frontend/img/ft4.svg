@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="62" height="62" viewBox="0 0 62 62">
+  <defs>
+    <filter id="Rectangle_99" x="0" y="0" width="62" height="62" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_4723" data-name="Group 4723" transform="translate(-968 -4227)">
+    <path id="Path_287" data-name="Path 287" d="M687.427,662.892a2.172,2.172,0,0,1,.743-1.705A3.086,3.086,0,0,1,692,661.2a2.193,2.193,0,0,1,.736,1.691,2.232,2.232,0,0,1-.75,1.719,2.718,2.718,0,0,1-1.91.686,2.684,2.684,0,0,1-1.9-.693A2.238,2.238,0,0,1,687.427,662.892Zm.34,20.7V667.943h4.556v15.648Z" transform="translate(299.771 3583.043)" fill="#fff"/>
+    <g id="Group_4722" data-name="Group 4722">
+      <g id="Group_4721" data-name="Group 4721">
+        <g id="Group_4718" data-name="Group 4718">
+          <g transform="matrix(1, 0, 0, 1, 968, 4227)" filter="url(#Rectangle_99)">
+            <g id="Rectangle_99-2" data-name="Rectangle 99" transform="translate(9 6)" fill="none" stroke="#fff" stroke-width="2">
+              <rect width="44" height="44" rx="8" stroke="none"/>
+              <rect x="1" y="1" width="42" height="42" rx="7" fill="none"/>
+            </g>
+          </g>
+          <path id="Path_288" data-name="Path 288" d="M777.006,741.761h-4.542v-8.73q0-3.792-2.731-3.792a2.728,2.728,0,0,0-2.165,1.012,3.838,3.838,0,0,0-.863,2.582v8.928h-4.57V726.113h4.57v2.49h.057a5.515,5.515,0,0,1,5.037-2.872q5.207,0,5.207,6.452Z" transform="translate(233.119 3524.874)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

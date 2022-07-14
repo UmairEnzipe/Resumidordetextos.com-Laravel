@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="146.02" height="42.73" viewBox="0 0 146.02 42.73">
+  <g id="Group_4728" data-name="Group 4728" transform="translate(-120 -49.731)">
+    <g id="Group_4724" data-name="Group 4724" transform="translate(120 50)">
+      <g id="Group_4716" data-name="Group 4716" transform="translate(0 3.284)">
+        <g id="Group_4715" data-name="Group 4715" transform="translate(0 0)">
+          <path id="Subtraction_2" data-name="Subtraction 2" d="M22.579,23.9h0a20.283,20.283,0,0,0-6.846-5.943H22.05a6,6,0,0,0,0-12H0V0H22.037A11.955,11.955,0,0,1,30.49,20.409a11.912,11.912,0,0,1-7.911,3.49Z" transform="translate(4.589 0)" fill="#e4e4ff"/>
+          <path id="Path_297" data-name="Path 297" d="M0,0H49L42.6,6.391,6.409,6.409Z" transform="translate(4.532 0) rotate(45)" fill="#fff"/>
+          <path id="Path_299" data-name="Path 299" d="M0,0H23.091l-6.32,6.32L6.286,6.286Z" transform="translate(4.469 18.38) rotate(45)" fill="#f9f9ff"/>
+        </g>
+      </g>
+      <text id="Resumidor" transform="translate(44.02 18.731)" fill="#fff" font-size="18" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">RESUMIDOR</tspan></text>
+      <text id="Detextos" transform="translate(44.02 36.731)" fill="#fff" font-size="16" font-family="Roboto-Light, Roboto" font-weight="300" letter-spacing="0.21em"><tspan x="0" y="0">DETEXTOS</tspan></text>
+    </g>
+  </g>
+</svg>
